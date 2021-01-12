@@ -1,4 +1,3 @@
-<img src="pics/splash.jpg" style="width: 50%;height: 50%" /><br />
 # sculator
 Sculator is the most useful calculator but it's very small.
 
