@@ -1,7 +1,7 @@
 # sculator
 
 Sculator is the smallest but most useful calculator.
-No Keyboard: We already have a keyboard and our keyboard has all the symbols which we need. So, I removed the keyboard
+No Keyboard: We already have a keyboard and our keyboard has all the symbols which we need. So, I removed the keyboard<br />
 <img src="pics/no_keyboard.jpg" /><br /><br />
 And why do our calculators have the limitation of the physical calculators? Why can't we write long equations in our calculators?<br />
 <img src="pics/long_equation.jpg"><br /><br />
