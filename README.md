@@ -9,3 +9,25 @@ And what about variables? Think about a calculator which you can declare variabl
 <img src="pics/variable.jpg" /><br /><br />
 You can also define your own functions in sculator too. For example x = lambda m:m**2-3. Sculator has been written in python. So it supports python's syntax.<br />
 And also, sculator is top most. So, when you are exploring ypur folders or navigating between windows, sculator is still on the top.
+
+###changelog
+###Version 2.1.1 - 2021
+Fixed bugs
+
+###Version 2.1.0 - 2020
+Added math functions
+
+###Version 2.0.0 - 2020
+Better graphics and widgets
+
+###Version 1.5.0 - 2019
+Variable decleration with custom name
+
+###Version 1.2.0 - 2019
+Added variables
+
+###Version 1.1.0 - 2018
+Added Constants
+
+###Version 1.0.0 - 2018
+Creation of sculator
