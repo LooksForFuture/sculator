@@ -10,24 +10,24 @@ And what about variables? Think about a calculator which you can declare variabl
 You can also define your own functions in sculator too. For example x = lambda m:m**2-3. Sculator has been written in python. So it supports python's syntax.<br />
 And also, sculator is top most. So, when you are exploring ypur folders or navigating between windows, sculator is still on the top.
 
-###changelog
-###Version 2.1.1 - 2021
-Fixed bugs
+<h3>changelog</h3>
+<h3>Version 2.1.1 - 2021</h3>
+Fixed bugs<br /><br />
 
-###Version 2.1.0 - 2020
-Added math functions
+<h3>Version 2.1.0 - 2020</h3>
+Added math functions<br /><br />
 
-###Version 2.0.0 - 2020
-Better graphics and widgets
+<h3>Version 2.0.0 - 2020</h3>
+Better graphics and widgets<br /><br />
 
-###Version 1.5.0 - 2019
-Variable decleration with custom name
+<h3>Version 1.5.0 - 2019</h3>
+Variable decleration with custom name<br /><br />
 
-###Version 1.2.0 - 2019
-Added variables
+<h3>Version 1.2.0 - 2019</h3>
+Added variables<br /><br />
 
-###Version 1.1.0 - 2018
-Added Constants
+<h3>Version 1.1.0 - 2018</h3>
+Added Constants<br /><br />
 
-###Version 1.0.0 - 2018
-Creation of sculator
+<h3>Version 1.0.0 - 2018</h3>
+Creation of sculator<br /><br />
