@@ -8,7 +8,7 @@ And why do our calculators have the limitation of the physical calculators? Why 
 And what about variables? Think about a calculator which you can declare variables in it. And also, sculator supports math functions too.<br />
 <img src="pics/variable.jpg" /><br /><br />
 You can also define your own functions in sculator too. For example x = lambda m:m**2-3. Sculator has been written in python. So it supports python's syntax.<br />
-And also, sculator is top most. So, when you are exploring ypur folders or navigating between windows, sculator is still on the top.
+And also, sculator is top most. So, when you are exploring your folders or navigating between windows, sculator is still on the top.
 
 <h3>changelog</h3>
 <h3>Version 2.1.1 - 2021</h3>
