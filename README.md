@@ -27,7 +27,7 @@ Variable decleration with custom name<br /><br />
 Added variables<br /><br />
 
 <h3>Version 1.1.0 - 2018</h3>
-Added Constants<br /><br />
+Added constants<br /><br />
 
 <h3>Version 1.0.0 - 2018</h3>
 Creation of sculator<br /><br />
