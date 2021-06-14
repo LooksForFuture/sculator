@@ -11,6 +11,9 @@ You can also define your own functions in sculator too. For example x = lambda m
 And also, sculator is top most. So, when you are exploring your folders or navigating between windows, sculator is still on the top.
 
 <h3>changelog</h3>
+<h3>Version 2.3.0 - 2021</h3>
+Added dynamic variables and some statistics functions<br /><br />
+
 <h3>Version 2.1.1 - 2021</h3>
 Fixed bugs<br /><br />
 
